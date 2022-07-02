@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the checkout when the cart is empthy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b8d1538-0c3a-4a57-9bc2-02b9f7c3c1ef</testCaseGuid>
+</TestCaseEntity>

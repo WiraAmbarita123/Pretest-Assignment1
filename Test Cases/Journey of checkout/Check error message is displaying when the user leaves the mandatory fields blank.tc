@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check error message is displaying when the user leaves the mandatory fields blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0403b66a-46af-408d-931a-a01a07e17126</testCaseGuid>
+</TestCaseEntity>
